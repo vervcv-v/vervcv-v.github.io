@@ -1,5 +1,5 @@
 {
-  "name": "astro-simple-portfolio",
+  "name": "vervcv-v/vervcv-v",
   "type": "module",
   "version": "1.1.0",
   "description": "free and open-source portfolio template site built with Astro.",
@@ -8,12 +8,12 @@
   "author": {
     "name": "Victor Alvarado"
   },
-  "homepage": "https://simple-portfolio.vicbox.dev",
+  "homepage": "https://verv-v.githun.io",
   "contributors": [
     {
       "name": "Victor Alvarado",
       "email": "victoralvarado.dev@gmail.com",
-      "url": "https://victoralvarado.dev"
+      "url": "https://verv-v.githun.io"
     }
   ],
   "keywords": [
